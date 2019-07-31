@@ -23,13 +23,13 @@ https://drive.google.com/file/d/16nw2LyODtp9Tk5xx1Jx3xAqkrTfFOMEp/view
 
 4. Press Clone button.
 
-(If your clone in Atom failed, you can download GitHub Desktop to clone.)
+- (If your clone in Atom failed, you can download GitHub Desktop to clone.)
 
-(If you have the project folder shown, skip step 5.)
+- (If you have the project folder shown, skip step 5.)
 
 5. File -> Add Project Folder.. -> Select the folder that you cloned to.
 
-##Congratulation! Now you are ready for Lecture 4 - BootStrap~
+### Congratulation! Now you are ready for Lecture 4 - BootStrap~
 
 ---
 
