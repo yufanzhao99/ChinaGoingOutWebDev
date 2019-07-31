@@ -22,11 +22,11 @@
 
 - (If you have the project panel shown as the following, skip step 5.)
 
-![Project Panel](PeojectPanel.png)
+![Project Panel](img/PeojectPanel.png)
 
 5. File -> Add Project Folder.. -> Select the folder that you cloned to.
 
-## Congratulations! 
+## Congratulations!
 
 Now you are ready for Lecture 4: BootStrap.
 
