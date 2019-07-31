@@ -4,12 +4,7 @@
 
 [GitHub Pages](https://vwslz.github.io/ChinaGoingOutWebDev/site/aboutus.html)
 
-https://vwslz.github.io/ChinaGoingOutWebDev/site/aboutus.html
-
 [A showcase of the website](https://drive.google.com/file/d/16nw2LyODtp9Tk5xx1Jx3xAqkrTfFOMEp/view)
-
-https://drive.google.com/file/d/16nw2LyODtp9Tk5xx1Jx3xAqkrTfFOMEp/view
-
 
 ## Instruction
 
