@@ -29,8 +29,8 @@ https://drive.google.com/file/d/16nw2LyODtp9Tk5xx1Jx3xAqkrTfFOMEp/view
 
 5. File -> Add Project Folder.. -> Select the folder that you cloned to.
 
-Congratulations! Now you are ready for Lecture 4: BootStrap~
+## Congratulations! 
 
----
+Now you are ready for Lecture 4: BootStrap~
 
-If you have any problem, DON'T hesitate to ask.
+If you have any problem with the instruction, DON'T hesitate to ask.
