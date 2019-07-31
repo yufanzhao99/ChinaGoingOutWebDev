@@ -29,4 +29,4 @@
 
 Now you are ready for Lecture 4: BootStrap.
 
-If you have any problem with the instruction, DON'T hesitate to ask.
+If you have any problem with the instruction, please DON'T hesitate to ask.
