@@ -1,6 +1,6 @@
 # Lecture 4 BootStrap
 
-##Links
+## Links
 
 [GitHub Pages](https://vwslz.github.io/ChinaGoingOutWebDev/site/aboutus.html)
 
@@ -12,7 +12,7 @@ https://drive.google.com/file/d/16nw2LyODtp9Tk5xx1Jx3xAqkrTfFOMEp/view
 
 ---
 
-##Instruction
+## Instruction
 
 1. On the top right of the page, fork the current project. The page will jump to your own project after a while.
 
