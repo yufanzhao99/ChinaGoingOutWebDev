@@ -21,6 +21,7 @@
 - (If your clone in Atom failed, you can download GitHub Desktop to clone.)
 
 - (If you have the project panel shown as the following, skip step 5.)
+
 ![Project Panel](PeojectPanel.png)
 
 5. File -> Add Project Folder.. -> Select the folder that you cloned to.
