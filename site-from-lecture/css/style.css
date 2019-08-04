@@ -1,0 +1,11 @@
+.jumotron{
+  padding: 70px 30px 70px 30px;
+  margin: 1px auto;
+  background-color: #cef2ce;
+  color: #1c9c1c;
+}
+
+body{
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
