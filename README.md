@@ -44,7 +44,7 @@ Continue working on html file as what we did during the lecture. The final versi
 
 2. Scroll down to *GitHub Pages* section. For *Source*, select *master branch*.
 
-[Video instruction](https://drive.google.com/file/d/1ZBFzMX4FPGtzimpo5Ws--NLNnTxXvn0I/view)
+[Video instruction](https://drive.google.com/file/d/1rbWFAy35TUD6YKPVQ163x7kf7UfTVMvj/view)
 
 (Update the project on GitHub in Atom)
 
