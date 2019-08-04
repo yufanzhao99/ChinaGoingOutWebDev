@@ -32,7 +32,7 @@ Now you are ready for Lecture 4: BootStrap.
 
 If you have any problem with the instruction, please DON'T hesitate to ask.
 
-## Assignment
+# Assignment
 
 Continue working on html file as what we did during the lecture. The final version of your site should be similar to the shown. You can customize your own CSS style.
 
