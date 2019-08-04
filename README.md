@@ -44,6 +44,8 @@ Continue working on html file as what we did during the lecture. The final versi
 
 2. Scroll down to *GitHub Pages* section. For *Source*, select *master branch*.
 
+[Video instruction](https://drive.google.com/file/d/1ZBFzMX4FPGtzimpo5Ws--NLNnTxXvn0I/view)
+
 (Update the project on GitHub in Atom)
 
 1. Packages -> GitHub -> Toggle Git Tab
@@ -53,3 +55,5 @@ Continue working on html file as what we did during the lecture. The final versi
 3. Enter commit message and press *Commit to master* button.
 
 4. At the bottom press *push* to update.
+
+[video instruction](https://drive.google.com/file/d/1ZBFzMX4FPGtzimpo5Ws--NLNnTxXvn0I/view)
