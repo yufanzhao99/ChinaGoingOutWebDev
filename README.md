@@ -31,29 +31,3 @@
 Now you are ready for Lecture 4: BootStrap.
 
 If you have any problem with the instruction, please DON'T hesitate to ask.
-
-# Assignment
-
-Continue working on html file as what we did during the lecture. The final version of your site should be similar to the shown. You can customize your own CSS style.
-
-## Submit
-
-(Set up GitHub Page in browser)
-
-1. On your own GitHub project home page, go to *Setting*.
-
-2. Scroll down to *GitHub Pages* section. For *Source*, select *master branch*.
-
-[Video instruction](https://drive.google.com/file/d/1rbWFAy35TUD6YKPVQ163x7kf7UfTVMvj/view)
-
-(Update the project on GitHub in Atom)
-
-1. Packages -> GitHub -> Toggle Git Tab
-
-2. Press *Stage All* to stage all the changes.
-
-3. Enter commit message and press *Commit to master* button.
-
-4. At the bottom press *push* to update.
-
-[video instruction](https://drive.google.com/file/d/1ZBFzMX4FPGtzimpo5Ws--NLNnTxXvn0I/view)
